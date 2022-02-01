@@ -117,7 +117,7 @@ Cartographie catégorisée interactive
 
 Documents d’entrée : fichier .JSON contenant tous les lieux reconnus et alignés.
 
-Ouvrir BaOIA_cartographie_categorisée.ipynb.
+Ouvrir BaOIA_cartographie_categorisee.ipynb.
 
 1ère cellule : elle permet de se connecter à son drive Google.
 
