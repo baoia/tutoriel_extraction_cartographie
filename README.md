@@ -19,7 +19,7 @@ tutoriel_extraction_cartographie
     ├── BAOIA_cartographie_categorisee.ipynb                # Notebook pour la réalisation d'une carte catégorisée selon les types de lieux
     ├── BAOIA_cartographie_complète.ipynb                   # Notebook pour la réalisation d'une carte complète
     ├── BaOIA_alignement_lieux.ipynb                        # Notebook pour l'alignement des lieux avec Wikidata
-    ├── BaOIA_gallica_txt.ipynb                            # Notebook pour l'extraction de l'océrisation de Gallica
+    ├── BaOIA_gallica_txt.ipynb                             # Notebook pour l'extraction de l'océrisation de documents de Gallica
     └── BaOIA_reconnaissance_extraction_entites.ipynb       # Notebook pour la reconnaissance et l'extraction des entités nommées
 ```
 
