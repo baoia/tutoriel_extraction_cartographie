@@ -16,9 +16,9 @@ tutoriel_extraction_cartographie
             └── _Guide_pratique_de_l_étranger_dans_Paris_et_se_bpt6k97689245_texte_brut.txt
         ├── carte_complète.html
         └── carte_creee.html
-    ├── BAOIA_cartographie_categorisee.ipynb                # Notebook pour la réalisation d'une carte catégorisée selon les types de lieux
-    ├── BAOIA_cartographie_complète.ipynb                   # Notebook pour la réalisation d'une carte complète
-    ├── BaOIA_alignement_lieux.ipynb                        # Notebook pour l'alignement des lieux avec Wikidata
+    ├── BaOIA_alignement_lieux.ipynb                        # Notebook pour la réalisation d'une carte catégorisée selon les types de lieux
+    ├── BaOIA_cartographie_categorisee.ipynb                # Notebook pour la réalisation d'une carte complète
+    ├── BaOIA_cartographie_complete.ipynb                   # Notebook pour l'alignement des lieux avec Wikidata
     ├── BaOIA_gallica_txt.ipynb                             # Notebook pour l'extraction de l'océrisation de documents de Gallica
     └── BaOIA_reconnaissance_extraction_entites.ipynb       # Notebook pour la reconnaissance et l'extraction des entités nommées
 ```
