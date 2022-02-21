@@ -2,6 +2,10 @@
 
 Ce tutoriel vise à cartographier un corpus de documents via l’identification des lieux cités dans les textes. Il démarre par l’extraction de documents déjà océrisés et disponibles sur Gallica. Ceux-ci seront traités par une chaîne TAL (Traitement Automatique de la Langue) pour reconnaître les entités nommées de lieux utiles pour la cartographie à savoir, toutes les occurrences de lieux repérées. À partir de cette liste de lieux, l’outil d’alignement va faire concorder les entités en comparant les lieux avec d’autres bases de données dans lesquelles d’autres informations seront récupérées (données de géolocalisation : latitude et longitude, région). Le dernier outil de cartographie récupère ces informations géographiques pour placer les lieux sur une carte exportable. Ce tutoriel s'est basé sur un corpus de guides touristiques.
 
+## Tutoriel
+
+Le tutoriel entier est disponible sur le site du projet à l'adresse suivante : [https://baoia.huma-num.fr/contact/tutoriel-complet-de-lextraction-documentaire-a-la-cartographie/](https://baoia.huma-num.fr/contact/tutoriel-complet-de-lextraction-documentaire-a-la-cartographie/).
+
 ## Structure du dépôt
 
 ```
@@ -22,7 +26,3 @@ tutoriel_extraction_cartographie
     ├── BaOIA_gallica_txt.ipynb                             # Notebook pour l'extraction de l'océrisation de documents de Gallica
     └── BaOIA_reconnaissance_extraction_entites.ipynb       # Notebook pour la reconnaissance et l'extraction des entités nommées
 ```
-
-## Tutoriel
-
-Le tutoriel entier est disponible sur le site du projet à l'adresse suivante : [https://baoia.huma-num.fr/contact/tutoriel-complet-de-lextraction-documentaire-a-la-cartographie/](https://baoia.huma-num.fr/contact/tutoriel-complet-de-lextraction-documentaire-a-la-cartographie/).
